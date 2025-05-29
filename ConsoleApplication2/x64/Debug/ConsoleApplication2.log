@@ -1,0 +1,4 @@
+﻿  airticket.cpp
+C:\Users\bazya\source\repos\ConsoleApplication2\ConsoleApplication2\airticket.cpp(29,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\bazya\source\repos\ConsoleApplication2\ConsoleApplication2\airticket.cpp(40,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication2.vcxproj -> C:\Users\bazya\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe

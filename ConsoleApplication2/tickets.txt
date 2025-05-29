@@ -1,0 +1,5 @@
+Ivanov SU123 15 12000 false
+Petrov AA456 7 25000 true
+Sidorov BA789 23 18000 false
+Kuznec TK321 4 35000 true
+Smirnov AL159 11 15000 false

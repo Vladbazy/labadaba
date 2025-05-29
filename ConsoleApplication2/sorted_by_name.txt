@@ -1,0 +1,6 @@
+5
+Ivanov SU123 15 12000 0
+Kuznetsov TK321 4 35000 1
+Petrov AA456 7 25000 1
+Sidorov BA789 23 18000 0
+Smirnov AL159 11 15000 0
