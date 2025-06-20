@@ -1,0 +1,5 @@
+﻿  Bell.cpp
+C:\Users\bazya\source\repos\Bell\Bell\Bell.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  main.cpp
+  Создание кода...
+  Bell.vcxproj -> C:\Users\bazya\source\repos\Bell\x64\Debug\Bell.exe
