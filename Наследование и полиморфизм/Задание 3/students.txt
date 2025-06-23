@@ -1,0 +1,25 @@
+Abramov Ilya Aleksandrovich, Scores: 5, 2, 4, 4, 5, 2, 3, Average Score: 3.57143
+Bazyak Vladislav Sergeevich, Scores: 4, 3, 2, 2, 4, 3, 4, Average Score: 3.14286
+Besedin Kirill Unknown, Scores: 3, 4, 4, 1, 2, 4, 2, 4, Average Score: 3
+Vill Maxim Sergeevich, Scores: 2, 5, 4, 2, 5, 3, 5, Average Score: 3.71429
+Vorobiev Fedor Unknown, Scores: 5, 3, 4, 2, 4, Average Score: 3.6
+Grachev Yaroslav Unknown, Scores: 4, 2, 4, Average Score: 3.33333
+Dzhantaev Bael Unknown, Scores: 3, 4, 4, Average Score: 3.66667
+Dmitriev Aleksei Unknown, Scores: 2, 3, 4, 5, 5, 5, 5, 5, Average Score: 4.25
+Kiselev Maxim Unknown, Scores: 4, 2, 4, Average Score: 3.33333
+Klepalov Nikita Unknown, Scores: 3, 5, 4, Average Score: 4
+Kremlev Vladimir Unknown, Scores: 2, 2, 4, Average Score: 2.66667
+Kuznetsov Fedor Evgeievich, Scores: 3, 3, 4, Average Score: 3.33333
+Lyakin Evgeny Unknown, Scores: 4, 5, 5, Average Score: 4.66667
+Morozov Matvey Unknown, Scores: 5, 4, 4, Average Score: 4.33333
+Nesterov Maxim Unknown, Scores: 4, 2, 4, Average Score: 3.33333
+Prosvetova Veronika Unknown, Scores: 2, 3, 4, Average Score: 3
+Rogalnikov Danil Unknown, Scores: 2, 5, 4, Average Score: 3.66667
+Sizov Maxim Unknown, Scores: 5, 5, 4, Average Score: 4.66667
+Simonova Marina Unknown, Scores: 4, 3, 4, Average Score: 3.66667
+Tolkachev Ivan Unknown, Scores: 3, 2, 4, Average Score: 3
+Trofimov Mikhail Unknown, Scores: 2, 5, 4, Average Score: 3.66667
+Uliskin Daniil Unknown, Scores: 4, 2, 4, 2, 5, 2, 3, 5, Average Score: 3.375
+Horoshev Artur Unknown, Scores: 4, 4, 4, 4, 6, 5, Average Score: 4.5
+Chistuhin Anton Unknown, Scores: 2, 3, 4, 2, 5, 4, 2, 3, Average Score: 3.125
+Shpagin Sergey Unknown, Scores: 3, 2, 4, 5, 4, Average Score: 3.6
